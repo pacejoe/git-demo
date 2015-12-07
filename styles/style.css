@@ -1,0 +1,16 @@
+.header {
+    min-height: 5vh;
+}
+
+.jumbotron {
+    min-height: 20vh;
+}
+
+.container {
+    min-height: 20vh;
+}
+
+.footer {
+    min-height: 5vh;
+    text-align: center;
+}
